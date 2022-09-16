@@ -37,5 +37,5 @@ end
 sum = 0
 if(valueArray.length > 0)
     valueArray.each{|x| sum += x }
-    puts 'Gia tri trung binh cac phan tu cua mang = %.2f' % [sum/inputValue.to_i]
+    puts 'Gia tri trung binh cac phan tu cua mang = %.2f' % [sum.to_f/valueArray.length]
 end
