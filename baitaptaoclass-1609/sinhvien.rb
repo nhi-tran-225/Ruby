@@ -19,7 +19,7 @@ class SinhVien
  end
  
  # Create Objects
- sv1 = SinhVien.new("1", "Nhi")
+ sv1 = SinhVien.new("1911505310140", "Trần Thị Phương Nhi")
  
  # Call Methods
  sv1.inThongTin()
