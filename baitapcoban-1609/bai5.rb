@@ -1,0 +1,1 @@
+#Viết chương trình để in một số nguyên, một số thực, một ký tự đã được định nghĩa trước.
